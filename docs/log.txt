@@ -1,0 +1,60 @@
+94  git init
+   95  git remote origin add git@github.comRamsesMRmunozRodriguez_AdrianRamses_nov24.git
+   96  git remote add origin git@github.comRamsesMRmunozRodriguez_AdrianRamses_nov24.git
+   97  git remote -v
+   98  git clone git@github.comRamsesMRmunozRodriguez_AdrianRamses_nov24.git
+   99  git branch master
+  100  git fetch
+  101  git branch
+  102  git branch AdrianRamsesMunozRodriguez
+  103  git pull origin master
+  104  git add .
+  105  git status
+  106  git add .
+  107  git add . assets
+  108  git commit -m Estructura inicial del proyecto
+  109  git branch master
+  110  git push origin master
+  111  git init
+  112  git remote -v
+  113  git add .
+  114  git status
+  115  git commit -m primera estructura del proyecto
+  116  git branch AdrianRamsesMunozRodriguez
+  117  git checkout master
+  118  git branch
+  119  git push origin master
+  120  touch readme.md
+  121  git checkout AdrianRamsesMunozRodriguez
+  122  git status
+  123  git add readme.md
+  124  git status
+  125  git commit -m se añadio el archivo gitignore
+  126  git push origin AdrianRamsesMunozRodriguez
+  127  git status
+  128  git add .
+  129  git commit -m se actualizo el archivo  readme.md en la rama secundaria
+  130  git push orign AdrianRamsesMunozRodriguez
+  131  git push origin AdrianRamsesMunozRodriguez
+  132  git pull origin AdrianRamsesMunozRodriguez
+  133  git add .
+  134  git commit -m ultimos cambios, se cargaron las capturas de pantalla
+  135  git push origin AdrianRamsesMunozRodriguez
+  136  git branch master
+  137  git checkout master
+  138  git checkout AdrianRamsesMunozRodriguez
+  139  git checkout master
+  140  git merge AdrianRamsesMunozRodriguez
+  141  git status
+  142  git commit -m actualiznado la rama master
+  143  git push origin master
+  144  git add .
+  145  git commit -m arrglos
+  146  git push origin master
+  147  git add .
+  148  git commit -m ultimo arreglo
+  149  git push origin master
+  150  git push origin master
+  151  git pull orign master
+  152  git push origin master
+  153  history
